@@ -1,7 +1,7 @@
 # simple-python-calculato
 def calculator():
 
-    arithmetic_charakter = input("chose an arthimetic charakter(+|-|/|*) ")
+    arithmetic_charakter = input("choose an arthimetic charakter(+|-|/|*) ")
 
     if arithmetic_charakter == ("*"):
 
