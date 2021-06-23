@@ -8,3 +8,6 @@ def calculator():
     print("result = " + str(result))
     
 calculator()
+
+#this calculator is only able to calculate whole numbers, dividing and multiplying isn't possible as well
+
